@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NIKHILKANNAWAR
+👋 Hi, I’m @NIKHILKANNAWAR
 
 <!---
 NIKHILKANNAWAR/NIKHILKANNAWAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
